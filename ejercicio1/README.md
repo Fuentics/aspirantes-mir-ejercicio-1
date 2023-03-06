@@ -11,3 +11,7 @@
 9.  `git commit -m "Versión Inicial"`
 10. Abrir el README.md en VSCode y utilizar Markdown
 11. `git commit -m "Agrega solución primer ejercicio"`
+12. Publicar a Github
+    `git branch -M main`
+    `git remote add origin https://github.com/Fuentics/aspirantes-mir-ejercicio-1.git`
+    `git push -u origin main`
